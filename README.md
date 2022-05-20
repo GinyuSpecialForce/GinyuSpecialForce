@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GinyuSpecialForce
-- 👀 I’m interested in Coding, Gaming, and Musical Composition.
-- 🌱 I’m currently learning about gamedev
+- Hey, I’m @GinyuSpecialForce
+- I’m interested in coding, gamedev, and musical composition.
+- I’m currently working on zugzwang (text-based rpg)
 
 
 <!---
