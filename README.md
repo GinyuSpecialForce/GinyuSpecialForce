@@ -1,6 +1,5 @@
-- Hey, I’m @GinyuSpecialForce
-- I’m interested in coding, gamedev, and musical composition.
-- I’m currently working on zugzwang (text-based rpg)
+- Hey, I’m Jon Cortes-Martinez, @GinyuSpecialForce!
+- I’m currently working on GradientDescent
 
 
 <!---
