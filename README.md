@@ -1,5 +1,5 @@
 - Hey, I’m Jon Cortes-Martinez, @GinyuSpecialForce!
-- I’m currently working on GradientDescent
+- I’m currently working on SafeGradientFlow
 
 
 <!---
